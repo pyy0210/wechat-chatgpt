@@ -1,6 +1,6 @@
 chatGPTAccountPool:
-  - email: pyy19860210@gmail.com
-    password: Pyy8899123
-    isGoogleLogin: true
+  - email: email
+    password: password
+    isGoogleLogin: false
 chatPrivateTiggerKeyword: ""
 openAIProxy: ""
