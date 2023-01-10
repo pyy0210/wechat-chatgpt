@@ -1,6 +1,6 @@
-chatGPTAccountPool:
-  - email: pyy19860210@gmail.com 
-    password: Pyy8899123
+chatGPTAccountPool
+  - email:  
+    password
     isGoogleLogin: false
-chatPrivateTiggerKeyword: "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"
-openAIProxy: ""
+chatPrivateTiggerKeyword: ""
+openAIProxy
